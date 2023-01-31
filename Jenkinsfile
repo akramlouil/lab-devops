@@ -8,7 +8,7 @@ pipeline {
         stage ("Affichage choix "){
             steps {
                 
-                echo " Environnement : $Type_Env" 
+                echo " Environnement X : $Type_Env" 
             }
         }
         
